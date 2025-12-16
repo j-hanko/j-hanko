@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi I'm Jakub 👋
 
-<!--
-**j-hanko/j-hanko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a **Computer Science student** and a **Junior DevOps Engineer**.  
+🚀 I'm passionate about cloud technologies, automation, and infrastructure.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- **Go**
+- **Google Cloud Platform (GCP)**
+- **Kubernetes** (deepening my knowledge and hands-on experience)
+
+---
+
+## 🛠️ Skills & Tools
+- 🐧 Linux
+- 🐳 Docker
+- 🔧 Git
+- ⚙️ GitLab CI/CD
+- ➕ **and many more**
+
+---
+
+## 🎯 Fun Facts & Interests
+- 🐶 I have a beautiful Miniature Australian Shepherd named **Biszkopt (Biscuit)**
+- 🎾 I love padel and train almost every day
+- ☕ I'm a big coffee enthusiast
+- 🧠 I really enjoy solving logical problems — my brain never stops calculating 24/7
