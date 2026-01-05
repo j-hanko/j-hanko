@@ -1,7 +1,7 @@
 ## Hi I'm Jakub 👋
 
 🎓 I'm a **Computer Science student** and a **Junior DevOps Engineer**.  
-🚀 I'm passionate about cloud technologies, automation, and infrastructure.
+🚀 I'm passionate about cloud technologies, automation, and infrastructure.  
 🏠 I also run my own **homelab**, where I continuously learn and experiment with DevOps and cloud tools.
 
 ## 🌱 Currently Learning
