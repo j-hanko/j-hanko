@@ -21,4 +21,3 @@
 - 🐶 I have a beautiful Miniature Australian Shepherd named **Biszkopt (Biscuit)**
 - 🎾 I love padel and train almost every day
 - ☕ I'm a big coffee enthusiast
-- 🧠 I really enjoy solving logical problems — my brain never stops calculating 24/7
